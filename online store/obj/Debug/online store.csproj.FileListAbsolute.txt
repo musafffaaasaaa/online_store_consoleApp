@@ -1,0 +1,19 @@
+C:\Users\Admin\Desktop\musa\online store\online store\online store\bin\Debug\online store.exe.config
+C:\Users\Admin\Desktop\musa\online store\online store\online store\bin\Debug\online store.exe
+C:\Users\Admin\Desktop\musa\online store\online store\online store\bin\Debug\online store.pdb
+C:\Users\Admin\Desktop\musa\online store\online store\online store\obj\Debug\online store.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\musa\online store\online store\online store\obj\Debug\online store.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\musa\online store\online store\online store\obj\Debug\online store.exe
+C:\Users\Admin\Desktop\musa\online store\online store\online store\obj\Debug\online store.pdb
+C:\Users\Admin\Desktop\musa\online store\online store\online store\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\musa\online store\online store\online store\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\musa\online store\online store\online store\obj\Debug\online s.1A91EEDD.Up2Date
+C:\Users\musta\OneDrive\Рабочий стол\online store\bin\Debug\online store.exe.config
+C:\Users\musta\OneDrive\Рабочий стол\online store\bin\Debug\online store.exe
+C:\Users\musta\OneDrive\Рабочий стол\online store\bin\Debug\online store.pdb
+C:\Users\musta\OneDrive\Рабочий стол\online store\bin\Debug\Newtonsoft.Json.xml
+C:\Users\musta\OneDrive\Рабочий стол\online store\obj\Debug\online store.csproj.AssemblyReference.cache
+C:\Users\musta\OneDrive\Рабочий стол\online store\obj\Debug\online store.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Рабочий стол\online store\obj\Debug\online s.1A91EEDD.Up2Date
+C:\Users\musta\OneDrive\Рабочий стол\online store\obj\Debug\online store.exe
+C:\Users\musta\OneDrive\Рабочий стол\online store\obj\Debug\online store.pdb
